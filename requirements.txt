@@ -1,0 +1,9 @@
+psycopg2-binary
+sqlalchemy
+fastapi
+uvicorn
+httpx
+pytest
+pytest-mock
+python-dotenv
+anthropic
